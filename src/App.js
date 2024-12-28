@@ -1,11 +1,6 @@
-import React, { useEffect } from "react";
-import GetMe from "./components/GetMe";
+import React from "react";
 import GetUser from "./components/GetUser";
-import GetUpdates from "./components/GetUpdates";
-import GetChatMembersCount from "./components/GetChatMembersCount";
 import './App.css'
-import Header from "./components/Header/Header";
-import ProductList from "./components/Product/ProductList";
 import Poke from "./components/Poke/Poke";
 
 const App = () => {
